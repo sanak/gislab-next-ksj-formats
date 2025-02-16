@@ -1,0 +1,7 @@
+data-tmp/**/*.geojson
+data-tmp/original/*
+data-tmp/sample/*
+
+.DS_Store
+
+*.code-workspace
